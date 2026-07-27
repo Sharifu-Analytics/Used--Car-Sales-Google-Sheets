@@ -129,5 +129,5 @@ GitHub:
 (https://github.com/Sharifu-Analysis)
 
 LinkedIn:
-(linkedin.com/in/islam-Freelancer)
+(https//linkedin.com/in/islam-Freelancer)
 
