@@ -1,4 +1,4 @@
-# 🚗 Used Car Sales Analysis Dashboard (Google Sheets)
+# 🚗 Used Car Sales Analysis Dashboard | Google Sheets
 
 ## 📌 Project Overview
 
